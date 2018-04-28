@@ -1,0 +1,23 @@
+{
+  "name": "image-finder",
+  "version": "1.0.0",
+  "description": "Image finder with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanarus/Image-Finder.git"
+  },
+  "author": "Chanaru Sampath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chanarus/Image-Finder/issues"
+  },
+  "homepage": "https://github.com/chanarus/Image-Finder#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
